@@ -48,17 +48,12 @@ const Api=()=>{
                                             </div>
                                             </div>
                                             </div>
-                                           
-                                        
                                         </>
                                     )
                                 })}
                                                
 </div>
 </div>
-
-  
-
 </>
             )}
 export default Api;
